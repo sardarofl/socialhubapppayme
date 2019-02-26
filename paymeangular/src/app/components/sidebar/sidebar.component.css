@@ -1,0 +1,35 @@
+.material_list{
+    color:black;
+    font-weight: 500;
+   
+   
+}
+
+.borderlist{
+
+    font-size:1.3em;
+line-height: 0.5;
+}
+
+
+  
+  .vertical-menu a {
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #f5f6f7;
+    border-radius: 5px;
+  }
+  
+  .vertical-menu a.active {
+    background-color: #f5f6f7;
+    border-style: solid;
+    border-color:#dddfe2;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+  }
